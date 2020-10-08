@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-09-02T09:34:40 IST" name="Default suite" finished-at="2020-09-02T09:34:58 IST" duration-ms="17272">
+    <groups>
+    </groups>
+    <test started-at="2020-09-02T09:34:40 IST" name="Default test" finished-at="2020-09-02T09:34:58 IST" duration-ms="17272">
+      <class name="testScripts.TC3">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:testScripts.TC3@5dd6264]" started-at="2020-09-02T09:34:40 IST" name="beforeClass" finished-at="2020-09-02T09:34:45 IST" duration-ms="4631" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="registration()[pri:0, instance:testScripts.TC3@5dd6264]" started-at="2020-09-02T09:34:45 IST" name="registration" finished-at="2020-09-02T09:34:57 IST" duration-ms="11910" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registration -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:testScripts.TC3@5dd6264]" started-at="2020-09-02T09:34:57 IST" name="afterClass" finished-at="2020-09-02T09:34:58 IST" duration-ms="669" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- testScripts.TC3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
